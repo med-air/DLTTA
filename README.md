@@ -32,7 +32,7 @@ The Prostate dataset can be downloaded from [here](https://liuquande.github.io/S
 
    1. install pytorch==1.7.0 torchvision==0.9.0 (via conda, recommend)
 
-3. download the dataset.
+3. download the dataset
 
 4. download the pretrained model from [google drive](https://drive.google.com/drive/folders/1RyTLkoLf1w_7rgvQl_aEERd-8YKGc0Yt?usp=sharing)
 
