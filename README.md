@@ -1,9 +1,9 @@
 # DLTTA: Dynamic Learning Rate for Test-time Adaptation on Cross-domain Medical Images
-by [Hongzheng Yang](https://github.com/HongZhengYang), [Chen Cheng](https://cchen-cc.github.io/), [Meirui Jiang](https://meiruijiang.github.io/MeiruiJiang/), [Quande Liu](https://liuquande.github.io/),  [Jianfeng Cao](), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/), [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).  
+Pytorch implementation for paper DLTTA: Dynamic Learning Rate for Test-time Adaptation on Cross-domain Medical Images, by [Hongzheng Yang](https://github.com/HongZhengYang), [Chen Cheng](https://cchen-cc.github.io/), [Meirui Jiang](https://meiruijiang.github.io/MeiruiJiang/), [Quande Liu](https://liuquande.github.io/),  [Jianfeng Cao](), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/), [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).  
 
 ## Abstract
 
-Pytorch implementation for paper DLTTA: Dynamic Learning Rate for Test-time Adaptation on Cross-domain Medical Images.
+
 
 ![](assets/Figure.png)
 
