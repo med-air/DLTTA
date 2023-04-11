@@ -34,7 +34,7 @@ The Prostate dataset can be downloaded from [here](https://liuquande.github.io/S
 
 3. download the dataset
 
-4. download the pretrained model from [google drive](https://drive.google.com/drive/folders/1RyTLkoLf1w_7rgvQl_aEERd-8YKGc0Yt?usp=sharing)
+4. download the pretrained model from [google drive](https://drive.google.com/drive/folders/1-Y63KlYmBsEQp5vz3gm2IjdY8TOvidCA?usp=sharing)
 
 5. modify the corresponding data path and model path in test.sh
 
